@@ -193,7 +193,7 @@ Top 10 event types by injury count
             ylab="Total Number of Injuries",
             main = "Top 10 Weather Events by Injuries Caused", cex.main = .8)
 
-![](Project_2CorrectedFromPeerEval__files/figure-markdown_strict/unnamed-chunk-9-1.png)
+![](unnamed-chunk-9-1.png)
 
 Tornado is the top severe weather event when event types are ranked both
 by descending number of fatalities and of injuries, with 5,187
@@ -304,7 +304,7 @@ Top 10 crop damage event types
             ylab="Crop Damage (in $US billion)",
             main = "Top 10 Weather Events by Crop Damage", cex.main = .8)
 
-![](Project_2CorrectedFromPeerEval__files/figure-markdown_strict/unnamed-chunk-16-1.png)
+![](unnamed-chunk-16-1.png)
 
 **Conclusions** Tornado is by far the most life-threataning severe
 weather event in the US from 1950-2011, while floods cause the most
